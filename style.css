@@ -1,0 +1,43 @@
+body {
+display: flex;
+flex-direction: column;
+align-items: center;
+width: 100%;    
+}
+.header-container {
+width: 100%;
+background-color: navy;
+display: flex;
+justify-content: center;
+}
+.header {
+display: flex; 
+width: 1200px;  
+align-items: center;
+justify-content: space-between; 
+
+}
+.logo {
+color: lightgray;  
+font-size: 40px;
+font-weight: 800;
+width: 600px;
+}
+.links {
+width: 600px; 
+display: flex;
+justify-content: end;
+gap: 5px;
+}    
+a {
+color: lightgray;  
+font-size: 22px;
+font-weight: 400;
+text-decoration: none;
+list-style: none; 
+text-align: end;  
+}
+li {
+padding: 0;
+margin: 0;    
+}
