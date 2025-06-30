@@ -89,3 +89,15 @@ padding: 25px 0 0 0;
 font-size: 42px;
 font-weight: 800;    
 }
+
+.content-container {
+display: flex;
+justify-content: space-between;  
+width: 1200px;  
+}
+.content-image {
+width: 200px;
+height: auto;
+border: 4px solid navy;  
+border-radius: 15%;  
+}
