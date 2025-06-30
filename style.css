@@ -101,3 +101,9 @@ height: auto;
 border: 4px solid navy;  
 border-radius: 15%;  
 }
+
+.content-container div {
+width: 200px;
+height: max-content;
+text-align: center;    
+}
