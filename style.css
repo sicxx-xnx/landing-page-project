@@ -26,7 +26,8 @@ width: 600px;
 width: 600px; 
 display: flex;
 justify-content: end;
-gap: 8px;
+align-items: center;
+gap: 10px;
 }    
 a {
 color: lightgray;  
